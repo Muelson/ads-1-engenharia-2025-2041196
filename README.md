@@ -1,4 +1,4 @@
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Samuel dos Santos Gonçalves
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software
 
